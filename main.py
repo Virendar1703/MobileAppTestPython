@@ -27,5 +27,5 @@ class DemoApp(MDApp):
         screen = Builder.load_string(screen_helper)
         return screen
 
-
-DemoApp().run()
+if __name__ == "__main__":
+    DemoApp().run()
