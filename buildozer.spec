@@ -1,10 +1,10 @@
 [app]
 
 # (str) Title of your application
-title = SchoolAttendence
+title = School Attendence
 
 # (str) Package name
-package.name = School
+package.name = school
 
 # (str) Package domain (needed for android/ios packaging)
 package.domain = org.test
